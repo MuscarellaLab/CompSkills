@@ -37,8 +37,10 @@ about me:
   
 8. 
   
-9. 
-  
+9.Noelle Picard 
+  - napicard@alaska.edu
+  - My name is Noelle, and I recently moved to Fairbanks from Vermont to get my masters and study notothenioid fishes. I am completely new to computing, but I am learning. :+1:
+
 10.
   
 11.
