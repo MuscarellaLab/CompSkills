@@ -2,10 +2,10 @@
 
 **Template**
 
-## Name 
-*Position Title*
-+ email:
-+ about me:
+## Kyoko Okano
+Ph.D. student
++ kokano@alaska.edu
++ about me: 
 
   
 # Instructor  
@@ -35,7 +35,10 @@ about me:
   
 7. 
   
-8. 
+## Kyoko Okano
+Ph.D. student
+kokano@alaska.edu
+about me: struggling but exciting to learn computulational skills! 
   
 9. 
   
