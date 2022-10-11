@@ -91,6 +91,10 @@ metabolomics approaches. Next, I will be measuring the effect of hypoxia acclima
 **research**: 
   
 <<<<<<< HEAD
+<br>
+
+=======
+<<<<<<< HEAD
 ## Kyoko Okano
 Ph.D. student
 kokano@alaska.edu
@@ -107,6 +111,7 @@ The Arctic becomes warmer nearly four times as fast as the rest of the world. My
 12.
 =======
   <br>
+>>>>>>> upstream/main
 
 ## Alex Cornwell
 *Student*
@@ -114,7 +119,6 @@ The Arctic becomes warmer nearly four times as fast as the rest of the world. My
 **email**: acornwell2@alaska.edu  
 **about me**:    
 **research**: 
-
 
 <br>
 
@@ -132,9 +136,15 @@ The Arctic becomes warmer nearly four times as fast as the rest of the world. My
 ## Noelle Picard 
 *Student*
 
+<<<<<<< HEAD
+**email**: napicard@alaska.edu    
+**about me**: I am a first year graduate student in the Wildlife Biology program and am completely new to computing, but it's cool to learn!     
+**research**: I work in the lab of Kristin O'Brien and I am studying gill remodeling in Antarctic notothenioids. I plan to see if they are able to increase their surface area in their gills when exposed to hypoxia and I want to study the mechanism behind it.
+=======
 **email**:    
 **about me**:    
 **research**: 
+>>>>>>> upstream/main
 
 <br>
 
@@ -145,6 +155,10 @@ The Arctic becomes warmer nearly four times as fast as the rest of the world. My
 **about me**:     
 **research**: 
 <<<<<<< HEAD
+
+=======
+<<<<<<< HEAD
 >>>>>>> upstream/main
 =======
+>>>>>>> upstream/main
 >>>>>>> upstream/main
