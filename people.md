@@ -1,7 +1,21 @@
-# Participants in the 2022 Computational Skills in Biology Course at UAF
+## Participants in the 2022 Computational Skills in Biology Course at UAF
 
 <br>
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+## Isaac Van Flein
+Graduate Student in UAF Biological Sciences
++ email: itvanflein@alaska.edu
++ about me: I am a hair-covered biped native to a small rocky planet with a liquid-dominant water 
+cycle. My favorite activities are consuming nutrients and respiring oxygen to sustain my cellular 
+activity. 
+>>>>>>> upstream/main
+
+  
+=======
+>>>>>>> upstream/main
 # Instructor  
   
 ## Mario Muscarella 
@@ -76,6 +90,22 @@ metabolomics approaches. Next, I will be measuring the effect of hypoxia acclima
 **about me**: I am a hair-covered biped native to a small rocky planet with a liquid-dominant water cycle. My favorite activities are consuming nutrients and respiring oxygen to sustain my cellular activity.   
 **research**: 
   
+<<<<<<< HEAD
+## Kyoko Okano
+Ph.D. student
+kokano@alaska.edu
+about me: struggling but exciting to learn computulational skills! 
+**research**
+The Arctic becomes warmer nearly four times as fast as the rest of the world. My study focuses on how this rapid warming affects environments and ecology and how the changes affect carbon balance.
+  
+9. 
+  
+10.
+  
+11.
+  
+12.
+=======
   <br>
 
 ## Alex Cornwell
@@ -93,8 +123,8 @@ metabolomics approaches. Next, I will be measuring the effect of hypoxia acclima
 *Ph.D. student*
 
 **email**: kokano@alaska.edu  
-**about me**: struggling but exciting to learn computulational skills!   
-**research**: 
+**about me**: struggling but excited to learn computulational skills!   
+**research**: My studay focuses on how recent rapid warming affects environments ecology and how the changes affect carbon balance
 
 
 <br>
@@ -114,3 +144,7 @@ metabolomics approaches. Next, I will be measuring the effect of hypoxia acclima
 **email**:    
 **about me**:     
 **research**: 
+<<<<<<< HEAD
+>>>>>>> upstream/main
+=======
+>>>>>>> upstream/main
