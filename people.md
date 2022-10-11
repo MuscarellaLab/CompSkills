@@ -55,8 +55,8 @@ Outside of the lab and classes, I really like cycling and making
 coffee & espresso. I'm beginning to get into climbing, and I hope to 
 explore cross-country skiing in the near future! 
 
-**research**: I will be working on a project involving the 
-physiological response of Antarctic notothenioid fishes to hypoxia stress.
+**research**: I will be working on a project involving the physiological response of Antarctic notothenioid fishes to hypoxia stress. Currently, I'm planning on first characterizing these fishes' response to hypoxia stress using NMR-based or Mass Spec-based 
+metabolomics approaches. Next, I will be measuring the effect of hypoxia acclimation on the transcription factor HIF-1's target genes using RNA-seq methods and transcriptomics analyses. My third chapter is still a bit nebulous at this point in time, but I'm considering measuring the effect of hypoxia stress on isolated mitochondrial respiration in different tissues.
 
   
 <br>
