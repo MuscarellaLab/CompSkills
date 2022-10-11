@@ -32,7 +32,14 @@
 **website**: https://www.adfg.alaska.gov/  
 **about me**: Spatial ecologist with the Alaska Department of Fish and Game. Currently intersted in ungulate movement corridors for guiding 
 conservation with increasing interest in infrastructure development.   
-**research**: 
+**research**: I am working on developing state/regionwide movement models 
+for primarily caribou and moose. I plan to build on the work of colleagues 
+and teams I am on that have developed automated data collection servers 
+for gps data and apply filtering metods for dealing qith faulty locations 
+and timestamps. My desire is to have a product that can highlight animal 
+movement corridors so that it may be considered for future development 
+plans in the state.
+ 
   
 <br>
 
