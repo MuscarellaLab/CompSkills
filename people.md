@@ -42,9 +42,10 @@ conservation with increasing interest in infrastructure development.
 **email**: hlwoody@alaska.edu  
 **website**: hlwoody@github.io  
 **about me**: I am studying permafrost microbes!   
-**research**: 
-
+**research**:   
+  
 <br>
+  
 
 ## Augustus Snyder 
 *Graduate Student in UAF Biological Sciences*
@@ -95,7 +96,7 @@ metabolomics approaches. Next, I will be measuring the effect of hypoxia acclima
 *Student*
 
 **email**:    
-**about me**:     
+**about me**:    
 **research**: 
 
 <br>
