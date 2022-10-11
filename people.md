@@ -56,7 +56,7 @@ conservation with increasing interest in infrastructure development.
 **email**: hlwoody@alaska.edu  
 **website**: hlwoody@github.io  
 **about me**: I am studying permafrost microbes!   
-**research**: 
+**research**: I am exploring the energy (carbon) limitations of bacteria in the permafrost. I am researching this to understand how the bacteria has adapted to cold conditions, and what effects this has on their gene regulation and functionality.  
  
 <br>
 
@@ -86,6 +86,8 @@ explore cross-country skiing in the near future!
 Ph.D. student
 kokano@alaska.edu
 about me: struggling but exciting to learn computulational skills! 
+**research**
+The Arctic becomes warmer nearly four times as fast as the rest of the world. My study focuses on how this rapid warming affects environments and ecology and how the changes affect carbon balance.
   
 9. 
   
@@ -122,7 +124,7 @@ about me: struggling but exciting to learn computulational skills!
 *Student*
 
 **email**:    
-**about me**:     
+**about me**:    
 **research**: 
 
 <br>
@@ -133,4 +135,7 @@ about me: struggling but exciting to learn computulational skills!
 **email**:    
 **about me**:     
 **research**: 
+<<<<<<< HEAD
+>>>>>>> upstream/main
+=======
 >>>>>>> upstream/main
