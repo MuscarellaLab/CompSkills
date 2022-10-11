@@ -19,9 +19,9 @@
 *Graduate Curatorial Assistant*  
 
 **email**: coliverbrown@alaska.edu  
-**website**: github.com/coliverbrown  
+**website**: coliverbrown@github.io  
 **about me**: I like birds.  
-**research**: 
+**research**: I am studying gene flow and divergence of closely related avian lineages at high and low latitudes. 
 
 <br>
 
