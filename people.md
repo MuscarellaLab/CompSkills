@@ -67,9 +67,8 @@ explore cross-country skiing in the near future!
 **about me**: I am a hair-covered biped native to a small rocky planet with a liquid-dominant water cycle. My favorite activities are consuming nutrients and respiring oxygen to sustain my cellular activity.   
 **research**: 
   
-<<<<<<< HEAD
-=======
-  <br>
+<br>
+
 
 ## Alex Cornwell
 *Student*
@@ -77,7 +76,6 @@ explore cross-country skiing in the near future!
 **email**: acornwell2@alaska.edu  
 **about me**:    
 **research**: 
-
 
 <br>
 
@@ -95,9 +93,9 @@ explore cross-country skiing in the near future!
 ## Noelle Picard 
 *Student*
 
-**email**:    
-**about me**:     
-**research**: 
+**email**: napicard@alaska.edu    
+**about me**: I am a first year graduate student in the Wildlife Biology program and am completely new to computing, but it's cool to learn!     
+**research**: I work in the lab of Kristin O'Brien and I am studying gill remodeling in Antarctic notothenioids. I plan to see if they are able to increase their surface area in their gills when exposed to hypoxia and I want to study the mechanism behind it.
 
 <br>
 
@@ -107,4 +105,4 @@ explore cross-country skiing in the near future!
 **email**:    
 **about me**:     
 **research**: 
->>>>>>> upstream/main
+
